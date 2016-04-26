@@ -4,6 +4,7 @@ Tag
 Afin de faire fonctionner les widgets SeasonPros, vous devez inclure dans votre page le tag suivant
 
 .. code-block:: javascript
+
     :linenos:
     <script type="text/javascript">
         (function() {
