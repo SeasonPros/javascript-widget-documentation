@@ -22,6 +22,7 @@ Paramètres disponibles
 ==========  ============   =========== 
 Paramètre   Obligatoire    Description
 ----------  ------------   -----------
+class       Oui            Doit être égal à 'seasonpros-widget'
 ==========  ============   =========== 
 
 class       Oui   Doit être égal à 'seasonpros-widget'
