@@ -1,5 +1,5 @@
-Tag
-=========
+Mise en place du tag
+=====================
 
 Afin de faire fonctionner les widgets SeasonPros, vous devez inclure dans votre page le tag suivant
 
@@ -13,3 +13,5 @@ Afin de faire fonctionner les widgets SeasonPros, vous devez inclure dans votre 
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(seasonpros, s);
         })();
     </script>
+
+Vous pouvez alors implémenter un widget.
