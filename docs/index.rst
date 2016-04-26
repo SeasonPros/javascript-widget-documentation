@@ -1,4 +1,4 @@
-Seasonpros widget documentation 
+SeasonPros widget documentation 
 ================================
 
 .. image:: /_images/logo-seasonpros.jpg
