@@ -7,7 +7,8 @@ Widget enregistrement saisonnier
 Le widget saisonnier permet à vos visiteurs de commencer leur inscription directement depuis votre site internet. 
 Ce widget ne propose, à ce jour, qu'une inscription saisonnier.
 
-Voici un exemple d'implémentation
+Voici un exemple d'implémentation :
+
 .. code-block:: html
     :linenos:
     
