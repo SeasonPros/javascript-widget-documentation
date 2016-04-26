@@ -4,7 +4,7 @@
 Présentation de la librarie javascript
 ======================================
 
-La librairie javascript de SeasonPros permet d'intégrer des widgets à votre site internet en procédant à deux étapes :
+La librairie javascript de SeasonPros permet d'intégrer des widgets à votre site internet en deux étapes :
 - Intégration d'un tag javascript
 - Déclaration de conteneurs HTML 
 
