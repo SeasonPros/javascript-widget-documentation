@@ -9,4 +9,4 @@ Librairie Javascript
     widget_worker_registration
     widget_job-offers_listing
 
-.. include:: /book/map.rst.inc
+.. include:: /javascript/map.rst.inc
