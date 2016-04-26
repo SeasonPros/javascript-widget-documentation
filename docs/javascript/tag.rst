@@ -3,8 +3,14 @@ Tag
 
 Afin de faire fonctionner les widgets SeasonPros, vous devez inclure dans votre page le tag suivant
 
-.. highlight:: html
+.. code-block:: sql
+   :linenos:
+
+   SELECT * FROM mytable
+   
+.. highlight:: javascript
     :linenos:
+    
     <script type="text/javascript">
       (function() {
           var seasonpros = document.createElement('script'); seasonpros.type = 'text/javascript'; seasonpros.async = true;
