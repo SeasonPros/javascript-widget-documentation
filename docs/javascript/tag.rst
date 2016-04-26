@@ -12,3 +12,8 @@ Afin de faire fonctionner les widgets SeasonPros, vous devez inclure dans votre 
     })();
   </script>
 ```
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
