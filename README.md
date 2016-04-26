@@ -2,4 +2,4 @@
 
 Official documentation for the SeasonPros widget library.
 
-Documentation is available at [seasonpros-widget-library.rtfd.org](http://seasonpros-widget-library.rtfd.org/).
+Documentation is available at [docs.seasonpros.com](http://docs.seasonpros.com/).
