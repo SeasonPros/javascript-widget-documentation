@@ -3,7 +3,7 @@ Tag
 
 Afin de faire fonctionner les widgets SeasonPros, vous devez inclure dans votre page le tag suivant
 
-.. highlight:: html
+.. highlight:: javascript
 
 ::
     <script type="text/javascript">
@@ -12,4 +12,4 @@ Afin de faire fonctionner les widgets SeasonPros, vous devez inclure dans votre 
            seasonpros.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.seasonpros.com/js/widget.min.js';
            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(seasonpros, s);
        })();
-   </script>
+    </script>
