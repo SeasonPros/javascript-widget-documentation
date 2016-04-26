@@ -4,5 +4,5 @@ SeasonPros widget documentation
 .. image:: /_images/logo-seasonpros.jpg
    :alt:   SeasonPros Logo
 
-`SeasonPros`_, site de recrutement entre saisonniers et professionnels, met à votre disposition une librarie 
-de widget afin de communiquer certaines informations depuis votre site internet_.
+`SeasonPros`, site de recrutement entre saisonniers et professionnels, met à votre disposition une librarie 
+de widget afin de communiquer certaines informations depuis votre site internet.
