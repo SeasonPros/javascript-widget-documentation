@@ -19,8 +19,8 @@ Paramètres disponibles
 -----------------------
 
 | Paramètre   | Obligatoire  | Description  |
-|---|---|---|
-| class  | Oui | Doit être égal à 'seasonpros-widget' |
+|-------------|:------------:|-------------:|
+| class       | Oui          | Doit être égal à 'seasonpros-widget' |
 | data-widget  | Oui | Type du widget, ici doit être égal à 'registration' |
 | data-partner-id  | Non | Votre tag partenaire. Sans celui-ci les inscriptions ne seront pas identifiées comme provenant de chez-vous  |
 | data-height  | Non | Hauteur du widget  |
