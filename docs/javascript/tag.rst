@@ -1,7 +1,7 @@
 Mise en place du tag
 =====================
 
-Afin de faire fonctionner les widgets SeasonPros, vous devez inclure dans votre page le tag suivant
+Afin de faire fonctionner les widgets SeasonPros, vous devez inclure dans votre page, une seule fois, le tag suivant
 
 .. code-block:: html
     :linenos:
@@ -14,4 +14,4 @@ Afin de faire fonctionner les widgets SeasonPros, vous devez inclure dans votre 
         })();
     </script>
 
-Vous pouvez alors implémenter un widget.
+Vous pouvez alors implémenter un widget avec de l'HTML en suivant les consignes expliquées dans les prochains chapitres.
